@@ -1,6 +1,6 @@
 # Origin
-version_branch = v0.33.6
-tendermint = https://raw.githubusercontent.com/tendermint/tendermint/$(version_branch)
+version_branch = feat-findora
+tendermint = https://gitee.com/kt10/tendermint/raw/$(version_branch)
 
 # Outputs
 tmkv = protobuf/libs/kv/types.proto
